@@ -1,7 +1,6 @@
 {
   "name": "amalthea",
   "version": "1.1.4",
-  "main": "dist/amalthea.js",
   "author": "Apollo <zhaoyang@jizhi.im>",
   "description": "the hyper front-end engine of data science",
   "keywords": [
@@ -11,20 +10,18 @@
   ],
   "homepage": "https://amalthea.ai",
   "license": "MIT",
-  "bugs": "https://github.com/Jinglue/Amalthea/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jinglue/Amalthea.git"
   },
-  "dependencies": {},
   "npmName": "amalthea",
   "npmFileMap": [
     {
-      "basePath": "/dist",
+      "basePath": "dist",
       "files": [
         "**/*"
       ]
     }
   ],
-  "filename": "/amalthea.08fd947.bundle.js"
+  "filename": "amalthea.08fd947.bundle.js"
 }
